@@ -3,8 +3,8 @@ package eficens;
 public class SwitchCase {
 
 	public static void main(String[] args) {
-		double i = 10;
-		double j = 3;
+		double i = 100;
+		double j = 30;
 		char operation= '/';
 		double result;
 		
